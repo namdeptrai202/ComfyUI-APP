@@ -25,3 +25,6 @@ filtered-openapi.yaml
 uv.lock
 .comfy_environment
 /previews/
+/ComfyUI-DotNet-POC/bin/
+/ComfyUI-DotNet-POC/obj/
+/ComfyUI-DotNet-POC/output/
